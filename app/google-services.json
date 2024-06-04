@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145299510484",
+    "project_id": "padelberdun",
+    "storage_bucket": "padelberdun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145299510484:android:92a8c181eb2ba57c9b5741",
+        "android_client_info": {
+          "package_name": "com.iessanalberto.padelberdun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MRteyQ4BQOyRUXbVytrQx1Y6tZ3Hop4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
